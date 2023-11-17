@@ -1,0 +1,16 @@
+h1{
+    background-color: black;
+    display: inline;
+}
+p{
+    background-color: blue;
+    display: inline;
+}
+h1{
+    background-color: blueviolet;
+    display: inline;
+}
+p{
+    background-color: brown;
+    display: inline;
+}

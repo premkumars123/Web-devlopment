@@ -1,0 +1,114 @@
+<style>
+        .heading
+        {
+            width: 100%;
+            height: 100%;
+            margin-bottom: 10px;
+        }
+        #titleImage
+        {
+            width: 100%;
+            height: 100%;
+
+        }
+        #titleName{
+            position: absolute;
+            text-align: center;
+            font-size: 100px;
+            top: 50%;
+            height: 100%;
+            width: 100%;
+            color: orangered;   
+            font-family: Century Gothic;
+            text-shadow: 2px,2px,2px black;
+        
+        }
+        .food1
+        {
+            background-color: yellow;
+            width: auto;
+            height: fit-content;
+            justify-content: center;
+            text-align: center;
+        }
+        #favFood1
+        {
+            font-size: large;
+            font-family: Century Gothic;
+            text-align: center;
+            padding: 20px;
+        }
+        #foodDescription
+        {
+            font-size: large;
+            font-family: Century Gothic;
+            text-align: center;
+            justify-content: center;
+        }
+        #favFoodImage1
+        {
+            border: 5px solid antiquewhite;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        .food2
+        {
+            background-color: orangered;
+            width: auto;
+            height: fit-content;
+            justify-content: center;
+            text-align: center;
+        }
+        #favFood2
+        {
+            font-size: large;
+            font-family: Century Gothic;
+            text-align: center;
+            padding: 20px;
+        }
+        #foodDescription2
+        {
+            font-size: large;
+            font-family: Century Gothic;
+            text-align: center;
+            justify-content: center;
+        }
+        #favFoodImage2
+        {
+            border: 5px solid antiquewhite;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        .food3
+        {
+            background-color: rgb(41, 146, 41);
+            width: auto;
+            height: fit-content;
+            justify-content: center;
+            text-align: center;
+        }
+        #favFood3
+        {
+            font-size: large;
+            font-family: Century Gothic;
+            text-align: center;
+            padding: 20px;
+        }
+        #foodDescription3
+        {
+            font-size: large;
+            font-family: Century Gothic;
+            text-align: center;
+            justify-content: center;
+        }
+        #favFoodImage3
+        {
+            border: 5px solid antiquewhite;
+            padding: 10px;
+            margin-bottom: 20px;
+           
+        }
+        
+    </style>

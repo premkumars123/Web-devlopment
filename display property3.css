@@ -1,0 +1,10 @@
+nav{
+    background-color: black;
+    color: white;
+}
+li,h1,ul{
+    display: inline-block;
+}
+ul{
+    margin-left: 600px;
+}
