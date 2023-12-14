@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+}
+nav{
+    background-color: white;
+    color: red;
+    padding: 15px;
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 50%;
+}
+li{
+    color: black;
+    cursor: pointer;
+}
